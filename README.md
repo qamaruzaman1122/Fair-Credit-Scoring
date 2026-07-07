@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b006205e-56dd-4068-942c-140fbeb2235b
+
 # ◆ Credit Default Risk Analyzer
 
 <p align="center">
